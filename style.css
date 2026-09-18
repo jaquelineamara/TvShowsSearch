@@ -2,9 +2,9 @@
 
 :root {
   --color-primary: rgb(255, 245, 245);
-  --color-secondary: salmon;
+  --color-secondary: cinza;
   --color-img-bg: black;
-  font-size: 10px;
+  font-size: 12px;
   font-family: 'Arial', sans-serif;
 }
 
